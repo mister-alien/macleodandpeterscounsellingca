@@ -19,3 +19,7 @@ contacts:
    email: rmacleodcounselling@gmail.com
 contactaddress: 549 North River Rd, Charlottetown
 contactfacebook: facebook.com/MacLeod-and-Peters-Counselling-100254606022978
+
+exclude:
+  - /vendor
+  - Gemfile
