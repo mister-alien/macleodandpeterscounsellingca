@@ -1,4 +1,4 @@
-remote_theme: mister-alien/minimal@mpc-0.2.0
+remote_theme: mister-alien/minimal
 plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Macleod & Peters Counselling
@@ -7,6 +7,12 @@ description: Providing counselling services in Central PEI
 
 # contactus stuff added by me 
 contactus: true
-contactemail: testemail@email.ca
+contacts: 
+  -
+    name: Megan
+    email: megansemail@email.ca
+  -
+   name: Rachel
+   email: rachelsemail@email.ca
 contactaddress: 549 North River Rd, Charlottetown
 contactfacebook: facebook.com/MacLeod-and-Peters-Counselling-100254606022978
