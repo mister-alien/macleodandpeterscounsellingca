@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Macleod & Peters Counselling
-logo: /assets/img/mpclogo1.png
+logo: /assets/img/mpclogo2.png
 description: Providing counselling services in central PEI
