@@ -4,3 +4,10 @@ plugins:
 title: Macleod & Peters Counselling
 logo: /assets/img/mpclogo2.png
 description: Providing counselling services in Central PEI
+
+
+# contactus stuff added by me 
+contactus: true
+contactemail: testemail@something.ca
+contactphone: (555)555-5555
+contactfacebook: facebook.com/MacLeod-and-Peters-Counselling-100254606022978
