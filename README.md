@@ -1,4 +1,4 @@
-# WHO WE ARE
+# Our Team
 ## Megan Peters
 ![Megan Peters Portrait](assets/img/meganprofile1.png "Megan Peters")
 
@@ -9,6 +9,7 @@ Recognizing that you want to take steps forward in improving your life is huge. 
 
 
 ## Rachel Macleod
+![Rachel Macleod Portrait](assets/img/rachelprofile1.jpeg "Rachel Macleod")
 
-Another Blurb
+Hi all! I'm Rachel, the MacLeod of MacLeod and Peters Counselling. I am currently taking new clients and I offer counselling for couples, LGBTQ2SIA+ adults and youth, adults with autism, trauma, self-esteem/self-confidence, and mood disorders. Please contact me at rmacleodcounselling@gmail.com to get more information!
 
