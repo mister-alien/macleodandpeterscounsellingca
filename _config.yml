@@ -1,6 +1,6 @@
 remote_theme: mister-alien/minimal
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Macleod & Peters Counselling
 logo: /assets/img/mpclogo2.png
 description: Providing counselling services in Central PEI
