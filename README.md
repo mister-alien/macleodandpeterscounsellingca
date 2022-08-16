@@ -2,11 +2,7 @@
 ## Megan Peters
 ![Megan Peters Portrait](assets/img/meganprofile1.png "Megan Peters")
 
-I take the approach that you are the expert on your life and I possess the tools necessary to help you in your therapeutic journey. I consider counselling a team effort and I am looking forward to having a new team member.
-
-My primary focus in my practice is ADHD, and anxiety. I also have experience working with people with depression, OCD, and high functioning autism.
-Recognizing that you want to take steps forward in improving your life is huge. I want to assist you in taking some of the next steps in your counselling journey.
-
+Hi everyone! I am Megan and the Peters half of MacLeod and Peters Counselling. I am also currently accepting new clients. I offer counselling for clients with ADHD, OCD, anxiety, trauma, self-esteem/self-confidence, and mood disorders.  I work with clients age 10+.  You can contact me at meganpeterscounselling@gmail.com to get some more information!
 
 ## Rachel Macleod
 ![Rachel Macleod Portrait](assets/img/rachelprofile1.jpeg "Rachel Macleod")
